@@ -1,0 +1,259 @@
+
+#main-logo{
+    display: block;
+    margin: 0 auto;
+    padding-bottom: 8px;  
+    margin-bottom: 15px;
+}
+.line-1{
+   height: 1px;
+   background: #d6d4d4;
+   margin:0 0 30px 0;
+}
+.info{
+   margin-bottom: -5px;
+   text-align: center;
+   font-family: Arial, Helvetica, sans-serif;
+   font-weight: 800;
+   font-size: 13px;
+}
+ .main{
+    display:flex;
+    flex-direction: column;
+    align-items: center;
+    row-gap: 10px;
+    margin-bottom: 20px;
+    
+    
+
+ }
+ .fnt{
+   letter-spacing: 3px;
+ }
+    
+#fb-icon{
+    height: 0.5em;
+} 
+
+ #fb{
+   background-color: #1877F2;
+   width: 450px;
+   height: 48px;
+   padding: 13px 31px;
+   border: 1px solid white;
+   border-radius: 25px;
+   margin-top: 16px;
+   color: #ffffff;
+   font-family: Arial, Helvetica, sans-serif;
+   font-size: 14px;
+   font-weight: bold;
+   font-size: 14px;
+   width: 450px;
+} 
+
+
+ #fb:hover{
+    border: 1px solid black;
+ }
+ #apple-icon{
+    font-size: 1.3em;
+ }
+
+ #apple{
+    background-color: black;
+    width: 450px;
+    height: 48px;
+    padding: 13px 31px;
+    border: 1px solid white;
+    border-radius: 25px;
+    color: #ffffff;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 14px;
+    font-weight: bold;
+    font-size: 14px;
+    width: 450px;
+    
+ }
+ #apple:hover{
+    border: 1px solid black;
+ }
+
+ .goog-icon{
+   height: 18px;
+   mix-blend-mode: multiply;
+   margin: 0 0.5px 0 0;
+   display: inline;
+   overflow: hidden;
+  
+
+ }
+
+ #goog{
+    background-color: white;
+    width: 450px;
+    height: 48px;
+    padding: 13px 31px;
+    border: 1px solid #6a6a6a;
+    border-radius: 25px;
+    color: #6a6a6a;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 14px;
+    font-weight: bold;
+    font-size: 14px;
+    width: 450px;
+
+ }
+ #goog:hover{
+    border: 1px solid black;
+ }
+ #phone{
+    background-color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 14px;
+    font-weight: bold;
+    font-size: 14px;
+    width: 450px;
+    height: 48px;
+    padding: 13px 31px;
+    border: 1px solid #6a6a6a;
+    border-radius: 25px;
+    color: #6a6a6a;
+    
+
+ }
+ #phone:hover{
+    border: 1px solid black;
+ }
+
+.line-2{
+   text-align: center;
+   font-family: Arial, Helvetica, sans-serif;
+   font-weight: bold;
+   font-size: 12px;
+   border-top: 2px solid #d6d4d4; 
+   line-height: 10px;
+   margin: 10px auto 20px auto;
+   width:450px;
+}
+
+span{
+   background-color: white;
+   padding:0 15px;
+   font-family: Arial, Helvetica, sans-serif;
+   font-size: 12px;
+   font-weight: bold;
+}
+
+.sndpart{
+   width: 450px;
+   margin: 0 auto;
+
+}
+.bottom{
+   display:flex;
+   flex-direction: column;
+   align-items: start;
+  
+}
+
+
+.input-field{
+   display: block;
+   margin: 15px auto;
+   width: 420px;
+   padding: 14px;
+   border: 1px solid #6a6a6a;
+   border-radius: 3px;
+}
+.input-field:hover{
+   border: 1px solid black;
+}
+
+#f-psw{
+   width: 450px;
+   font-family: Arial, Helvetica, sans-serif;
+   font-weight: lighter;
+   font-size: 13px;
+   margin:0 auto 0 auto;
+}
+.rem{
+   
+   font-family: Arial, Helvetica, sans-serif;
+   font-weight: lighter;
+   font-size: 13px;
+
+}
+
+
+#rem-log{
+   margin: 10px auto 0 auto;
+   width:450px;
+   height:48px;
+   display:flex;
+   justify-content: space-between;
+   flex-direction: row;
+
+}
+
+
+.l-in{
+   color: black;
+   background-color: #1ED760;
+   font-family: Arial, Helvetica, sans-serif;
+   font-size: 14px;
+   font-weight: bold;
+   font-size: 14px;
+   width: 123px;
+   height: 45px;
+   padding: 13px 31px;
+   border: 1px solid #6a6a6a;
+   border-radius: 25px;
+   border:none;
+}
+
+.l-in:hover{
+   transform: scale(1.1);
+  
+}
+
+#line-3{
+   width: 450px;
+   height:2px;
+   background-color:#d6d4d4;
+   margin: 25px auto 0 auto;
+
+}
+
+.d-h-acc{
+   margin-top: 30px;
+   font-family: Arial, Helvetica, sans-serif;
+   font-size: 14px;
+   font-weight: bold;
+   font-size: 16px;
+   text-align: center;
+}
+
+#sign-u{
+   background-color: white;
+   font-family: Arial, Helvetica, sans-serif;
+   font-size: 14px;
+   font-weight: bold;
+   font-size: 14px;
+   width: 400px;
+   height: 20px;
+   padding: 13px 31px;
+   border: 1px solid #6a6a6a;
+   border-radius: 25px;
+   color: #6a6a6a;
+   text-align: center;
+   margin:25px auto 0 auto;
+   letter-spacing: 2px;
+   
+}
+#sign-u:hover{
+   border: 1px solid black;
+}
+
+
+
+
